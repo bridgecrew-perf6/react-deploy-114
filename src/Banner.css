@@ -2,7 +2,7 @@
     position: relative;
     height: 448px;
     object-fit: contain;
-    color: white;
+    color: #63cdda;
 }
 
 .banner_contents{
@@ -55,6 +55,6 @@
 
 .banner_button:hover{
     color: #000;
-    background-color: #e6e6e6;
+    background-color: #63cdda;
     transition: all 0.2s;
 }
